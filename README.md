@@ -1,0 +1,1 @@
+# sigstore-gitsign-ci
